@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Thu Oct 15 12:08:21 2020
+# Process ID: 16228
+# Current directory: C:/Users/kyra_rose1/Documents/GitHub/DL202030_KyraRose/Lab05/Lab05_project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7732 C:\Users\kyra_rose1\Documents\GitHub\DL202030_KyraRose\Lab05\Lab05_project\Lab05_project.xpr
+# Log file: C:/Users/kyra_rose1/Documents/GitHub/DL202030_KyraRose/Lab05/Lab05_project/vivado.log
+# Journal file: C:/Users/kyra_rose1/Documents/GitHub/DL202030_KyraRose/Lab05/Lab05_project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/kyra_rose1/Documents/GitHub/DL202030_KyraRose/Lab05/Lab05_project/Lab05_project.xpr
+

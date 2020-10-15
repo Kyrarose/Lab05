@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Thu Oct 15 12:08:21 2020
+# Process ID: 16228
+# Current directory: C:/Users/kyra_rose1/Documents/GitHub/DL202030_KyraRose/Lab05/Lab05_project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7732 C:\Users\kyra_rose1\Documents\GitHub\DL202030_KyraRose\Lab05\Lab05_project\Lab05_project.xpr
+# Log file: C:/Users/kyra_rose1/Documents/GitHub/DL202030_KyraRose/Lab05/Lab05_project/vivado.log
+# Journal file: C:/Users/kyra_rose1/Documents/GitHub/DL202030_KyraRose/Lab05/Lab05_project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/kyra_rose1/Documents/GitHub/DL202030_KyraRose/Lab05/Lab05_project/Lab05_project.xpr
+IINFO: [Project 1-313] Project file moved from 'C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/Lab05/Lab05_project' since last save.Scanning sources...
+FFinished scanning sourcesWWARNING: [filemgmt 56-2] Board Part Repository Path: Could not find the directory 'C:/Users/AppData/Roaming/Xilinx/Vivado/2020.1/xhub/board_store/xilinx_board_store', nor could it be found using path 'C:/Users/kyrar/AppData/Roaming/Xilinx/Vivado/2020.1/xhub/board_store/xilinx_board_store'.WWARNING: [filemgmt 56-2] Default IP Output Path : Could not find the directory 'C:/Users/kyra_rose1/Documents/GitHub/DL202030_KyraRose/Lab05/Lab05_project/Lab05_project.srcs/sources_1', nor could it be found using path 'C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/Lab05/Lab05_project/Lab05_project.srcs/sources_1'.INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/XilinxVitis/Vivado/2020.1/data/ip'.
+open_project: Time (s): cpu = 00:00:18 ; elapsed = 00:00:43 . Memory (MB): peak = 1113.367 ; gain = 0.000
+eexit
+INFO: [Common 17-206] Exiting Vivado at Thu Oct 15 12:38:32 2020...
