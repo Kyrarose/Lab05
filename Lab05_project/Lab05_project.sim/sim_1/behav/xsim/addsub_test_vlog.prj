@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../System_Verilog_code/halfadder.sv" \
+"../../../../../../All_System_verilog_code/fulladder.sv" \
+"../../../../../../All_System_verilog_code/addsub.sv" \
+"../../../../../System_Verilog_code/halfadder_test.sv" \
+"../../../../../../All_System_verilog_code/fulladder_test.sv" \
+"../../../../../../All_System_verilog_code/addsub_test.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

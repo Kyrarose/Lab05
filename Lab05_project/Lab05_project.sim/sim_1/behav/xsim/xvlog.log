@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/Lab05/System_Verilog_code/halfadder.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module halfadder
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/All_System_verilog_code/fulladder.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fulladder
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/All_System_verilog_code/addsub.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module addsub
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/Lab05/System_Verilog_code/halfadder_test.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module halfadder_test
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/All_System_verilog_code/fulladder_test.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fulladder_test
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/All_System_verilog_code/addsub_test.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module addsub_test

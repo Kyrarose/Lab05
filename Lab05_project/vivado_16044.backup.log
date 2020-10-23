@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Mon Oct 19 08:52:05 2020
+# Process ID: 16044
+# Current directory: C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/Lab05/Lab05_project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2568 C:\Users\kyrar\OneDrive\Documents\GitHub\DL202030_KyraRose\Lab05\Lab05_project\Lab05_project.xpr
+# Log file: C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/Lab05/Lab05_project/vivado.log
+# Journal file: C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/Lab05/Lab05_project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/Lab05/Lab05_project/Lab05_project.xpr
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/Lab05/Lab05_project/halfadder_test_behav.wcfg'.
+Scanning sources...
+Finished scanning sources
+WARNING: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/Lab05/Lab05_project/Lab05_project.srcs/sources_1'.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.1/data/ip'.
+open_project: Time (s): cpu = 00:00:59 ; elapsed = 00:00:24 . Memory (MB): peak = 1052.914 ; gain = 0.000
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Oct 19 09:50:52 2020...

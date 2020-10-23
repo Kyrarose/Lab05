@@ -2,6 +2,10 @@
 2020.1
 May 27 2020
 20:09:33
+C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/All_System_verilog_code/addsub.sv,1603225981,systemVerilog,,C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/Lab05/System_Verilog_code/halfadder_test.sv,,addsub,,,,,,,,
+C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/All_System_verilog_code/addsub_test.sv,1603225451,systemVerilog,,,,addsub_test,,,,,,,,
+C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/All_System_verilog_code/fulladder.sv,1602977755,systemVerilog,,C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/All_System_verilog_code/addsub.sv,,fulladder,,,,,,,,
+C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/All_System_verilog_code/fulladder_test.sv,1602980281,systemVerilog,,C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/All_System_verilog_code/addsub_test.sv,,fulladder_test,,,,,,,,
 C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/Lab05/Lab05_project/Lab05_project.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
-C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/Lab05/System_Verilog_code/halfadder.sv,1601525087,systemVerilog,,C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/Lab05/System_Verilog_code/halfadder_test.sv,,halfadder,,,,,,,,
-C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/Lab05/System_Verilog_code/halfadder_test.sv,1601527256,systemVerilog,,,,halfadder_test,,,,,,,,
+C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/Lab05/System_Verilog_code/halfadder.sv,1601525087,systemVerilog,,C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/All_System_verilog_code/fulladder.sv,,halfadder,,,,,,,,
+C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/Lab05/System_Verilog_code/halfadder_test.sv,1601527256,systemVerilog,,C:/Users/kyrar/OneDrive/Documents/GitHub/DL202030_KyraRose/All_System_verilog_code/fulladder_test.sv,,halfadder_test,,,,,,,,
